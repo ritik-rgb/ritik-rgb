@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RITIK RAJ</h1>
 <h3 align="center">A Passionate | | Software developer | Web Developer | Data Analyst | Android Developer | Full Stack |</h3>
 
-- 🔭 I’m currently working on **e commerce project**
+- 🔭 I’m currently working on **E-commerce Platform for Traditional Indian Handicrafts and Cultural Quiz**
 
 - 💬 Ask me about **"💡 Ask me about Web Development, Data Analytics, Android Development, Full Stack, and software developer.**
 
