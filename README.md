@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **e commerce project**
 
-- 💬 Ask me about **"💡 Ask me about Web Development, Data Analytics, Android Development, Full Stack, and software developement.**
+- 💬 Ask me about **"💡 Ask me about Web Development, Data Analytics, Android Development, Full Stack, and software developer.**
 
 - 📫 How to reach me **ritikraj40@gmail.com**
 
